@@ -1,8 +1,9 @@
 Small test using the library gosu to display a moving text using the graphics card at 144hz
+---------------------------------------------------------------------------------------------
 
-Requires gem install gosu
+Requires the gem gosu
 
-Just ruby gosutest.rb
+To test it just $ruby gosutest.rb
 
 Press escape to close it
 
